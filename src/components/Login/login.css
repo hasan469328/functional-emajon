@@ -1,0 +1,80 @@
+.form-div {
+  background: #ffe0b3;
+  border-radius: 8px;
+  width: 500px;
+  height: 600px;
+  margin: 40px auto;
+  position: relative;
+}
+.form-container {
+  width: 500px;
+  height: 600px;
+  border: 1px solid #95a0a7;
+  border-radius: 8px;
+  margin: 40px auto;
+  padding-left: 42px;
+  background-color: #fff;
+  position: absolute;
+  top: -55px;
+  left: 10px;
+}
+
+.form-title {
+  text-align: center;
+  font-family: "Lato";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 35px;
+  line-height: 42px;
+  letter-spacing: 0.0025em;
+  color: #2a414f;
+  margin-bottom: 20px;
+}
+
+.form-control input {
+  display: block;
+  font-family: "Lato";
+  font-size: 17px;
+  line-height: 20px;
+  letter-spacing: 0.0015em;
+  color: #2a414f;
+  margin-bottom: 9px;
+}
+
+.form-control input {
+  width: 415px;
+  height: 55px;
+  border: 1px solid #95a0a7;
+  border-radius: 5px;
+  font-size: 1.5em;
+  margin-bottom: 20px;
+}
+
+.form-control .btn-submit {
+  background: rgba(255, 153, 0, 0.3);
+  font-family: "Lato";
+  font-size: 21px;
+  line-height: 25px;
+  letter-spacing: 0.0015em;
+  color: #0e161a;
+  border: none;
+  margin-top: 40px;
+  margin-bottom: 1px;
+}
+
+.btn-submit:hover {
+  background: rgba(255, 153, 0, 0.6);
+}
+
+.sub-title {
+  text-align: center;
+}
+
+.link {
+  color: #FF9900;
+  text-decoration: none;
+}
+
+.link:hover {
+  color: #ff9900f1;
+}

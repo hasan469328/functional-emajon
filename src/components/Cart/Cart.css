@@ -1,6 +1,31 @@
-.cart{
-    background-color: rgba(255, 153, 0, 0.3);;
-    padding: 25px;
-    position: sticky;
-    top: 0;
+.cart {
+  background-color: rgba(255, 153, 0, 0.3);
+  padding: 25px;
+  position: sticky;
+  top: 0;
+}
+.btn-clear {
+  width: 98%;
+  background: #ff3030;
+  border-radius: 4px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 21px;
+  color: #ffffff;
+}
+
+.proceed-btn {
+  margin-top: 1rem;
+  width: 98%;
+  background: #ff9900;
+  border-radius: 4px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 19px;
+  color: #ffffff;
+}
+.proceed-link {
+  text-decoration: none;
 }
